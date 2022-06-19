@@ -1,1 +1,1 @@
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=deleted)](https://solved.ac/orientaition/)
